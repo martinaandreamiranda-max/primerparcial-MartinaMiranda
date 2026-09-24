@@ -79,6 +79,7 @@ main{
     border: 2px solid #C2185B;
     border-radius: 50px;
     box-shadow: 0 6px 18px rgba(233, 30, 99, 0.35);
+    color: #1A1128;
 }
 
 .tarjetas{
